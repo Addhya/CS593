@@ -1,6 +1,6 @@
-package MyPack;
+package MyPacks;
 public class welcome {
-	welcome() {
+	public welcome() {
 		System.out.println("welcome");
 	}
 }	
